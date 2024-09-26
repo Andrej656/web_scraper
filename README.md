@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [csv](https://docs.rs/csv/) - For writing CSV files.
 ```
 
-You can copy everything inside the triple backticks and paste it into your `README.md` file. Let me know if you need anything else!
+
